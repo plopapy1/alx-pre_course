@@ -1,0 +1,2 @@
+the command line used was first git fetch, to check the changes in the remote repository 
+after which "git pull" was used to pull them to the local repository
